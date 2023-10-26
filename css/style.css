@@ -4,7 +4,7 @@
 }
 
 #back{
-    background: url(../side.jpg);
+    background: url(../side.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -12,7 +12,7 @@
     height: 570px;
 }
 #road{
-    background: url(../road.jpg);
+    background: url(../road.webp);
 }
 #img{
     width: 170px;
